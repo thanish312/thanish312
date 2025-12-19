@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I’m Thanish 👋
 
-<!--
-**thanish312/thanish312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a solo builder interested in systems, automation, and real-world problem solving.
+Recently won **1st Place** at **Qubic | Hack the Future** (EasyConnect Track) for building
+**QubicLink** — a no-code bridge between blockchain activity and Discord communities.
 
-Here are some ideas to get you started:
+### What I work on
+- Hackathon projects (Web3, automation, infra)
+- Backend systems & integrations
+- Competitive programming (C++)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Highlighted Project
+🔹 **QubicLink**  
+1st Place – Qubic Hack the Future  
+- Solves on-chain ↔ community identity gap  
+- Built with EasyConnect, Make.com, Discord bots  
+- Focus on business value & real workflows  
+
+🔗 Repo: https://github.com/thanish312/QubicLink
+
+### Currently learning
+- Distributed systems fundamentals
+- C++ for competitive programming
+- Backend architecture
+
+📫 Reach me: LinkedIn | GitHub
