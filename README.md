@@ -1,26 +1,31 @@
-## Hi, I’m Thanish 👋
+# Thanish B Urs
 
-I’m a solo builder interested in systems, automation, and real-world problem solving.
-Recently won **1st Place** at **Qubic | Hack the Future** (EasyConnect Track) for building
-**QubicLink** — a no-code bridge between blockchain activity and Discord communities.
+Student developer focused on building practical systems, Web3 identity infrastructure, and automation-driven tools.
 
-### What I work on
-- Hackathon projects (Web3, automation, infra)
-- Backend systems & integrations
-- Competitive programming (C++)
+I build software that connects real-world workflows with distributed systems, with an emphasis on clarity, security, and usability over demos or hype.
 
-### Highlighted Project
-🔹 **QubicLink**  
-1st Place – Qubic Hack the Future  
-- Solves on-chain ↔ community identity gap  
-- Built with EasyConnect, Make.com, Discord bots  
-- Focus on business value & real workflows  
+## Featured Project: QubicLink
 
-🔗 Repo: https://github.com/thanish312/QubicLink
+**QubicLink** is a Web3 identity verification and automation system that links on-chain wallet activity with Discord-based communities.
 
-### Currently learning
+It enables secure role assignment, rewards, and engagement workflows by bridging blockchain signals with real community platforms — without requiring smart contract deployment.
+
+**Key focus areas:**
+- On-chain ↔ off-chain identity mapping  
+- Automation of community roles and rewards  
+- Practical integration with existing tools (Discord, no-code workflows)
+
+🔗 Repository: https://github.com/thanish312/QubicLink
+
+## What I work on
+- Backend systems and infrastructure-level tooling
+- Web3 identity, automation, and integrations
+- Prototypes that evolve into production-ready tools
+- Competitive programming and algorithmic problem solving (C++)
+
+## Currently learning
 - Distributed systems fundamentals
+- Backend architecture and scalability
 - C++ for competitive programming
-- Backend architecture
 
-📫 Reach me: LinkedIn | GitHub
+Built QubicLink as part of the Qubic Hack the Future ecosystem.
