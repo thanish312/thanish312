@@ -1,6 +1,6 @@
 # Thanish B Urs
 
-Student developer focused on building practical systems, Web3 identity infrastructure, and automation-driven tools.
+Student who likes building things, breaking them, and learning from the process.
 
 I build software that connects real-world workflows with distributed systems, with an emphasis on clarity, security, and usability over demos or hype.
 
