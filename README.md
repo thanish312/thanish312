@@ -1,31 +1,63 @@
-# Thanish B Urs
+# Thanish B. Urs
 
-Student who likes building things, breaking them, and learning from the process.
+Hi everyone! I am a student developer and builder from Bangalore, India.
 
-I build software that connects real-world workflows with distributed systems, with an emphasis on clarity, security, and usability over demos or hype.
+I work on software and hardware projects that try to make capable technology more practical: usable on limited hardware, affordable, privacy minded, and based on real constraints, not just demos.
 
-## Featured Project: QubicLink
+I’m interested in applied AI, embedded systems, local-first software, automation, privacy tooling, and the systems that make tech accessible to people.
 
-**QubicLink** is a Web3 identity verification and automation system that links on-chain wallet activity with Discord-based communities.
+## What I care about 
 
-It enables secure role assignment, rewards, and engagement workflows by bridging blockchain signals with real community platforms — without requiring smart contract deployment.
+- Constructing useful things from first principles.
+- Making AI work on limited hardware or unreliable internet
+- Local-first and privacy-preserving systems
+- Embedded devices, sensors and hardware hacking
+- Solid software architecture, not just nice once prototypes
+- Recognize the trade-offs in security, performance, cost and usability
 
-**Key focus areas:**
-- On-chain ↔ off-chain identity mapping  
-- Automation of community roles and rewards  
-- Practical integration with existing tools (Discord, no-code workflows)
+## Selected Work 
+### QubicLink 
+**1st Place — Qubic Hack the Future, EasyConnect Track**
+QubicLink is a no-code tool for identity verification and community automation in the Qubic ecosystem.
 
-🔗 Repository: https://github.com/thanish312/QubicLink
+It explored a practical way for Discord users to prove ownership of a Qubic wallet without having to deploy smart contracts. The user would place a uniquely specified bid order on QX, creating an on-chain signal that could be associated with their Discord identity.
 
-## What I work on
-- Backend systems and infrastructure-level tooling
-- Web3 identity, automation, and integrations
-- Prototypes that evolve into production-ready tools
-- Competitive programming and algorithmic problem solving (C++)
+Once verified, that connection might initiate community workflows such as:
 
-## Currently learning
-- Distributed systems fundamentals
-- Backend architecture and scalability
-- C++ for competitive programming
+- Assign discord roles
+- Eligibility for rewards and airdrops
+- Control of access
+- Community engagement and reputation management
 
-Built QubicLink as part of the Qubic Hack the Future ecosystem.
+For the project, Qubic EasyConnect and Make.com were used to link the activity on the blockchain to existing community tools. The objective was to offer DAOs, launchpads and other Qubic-based communities wallet verification and engagement automation without the need to deploy custom smart-contracts.
+
+[Check out repo ](https://github.com/thanish312/QubicLink)
+### BottleBot
+
+Anonymous messaging Slack bot, built during Hack Club Stardance.
+
+You can toss messages in a shared bottle read random messages later. The project was designed to keep messages simple and anonymous, so it only stores the message text and timestamp, not user identities.
+
+[Check out the repo →](https://github.com/thanish312/BottleBot)
+
+### Previous experiments with AI access
+
+I’ve also explored ways to make AI more accessible if you don’t have a “fast laptop + constant internet” setup:
+
+- **SMS-AI** - a proof of concept to access AI via SMS and basic phones
+- **Octo AI** - Local inference experiments with speech input, text to speech and local language models (hands free)
+
+These projects influenced my ongoing interest in low-cost, private, and resource-efficient AI systems.# Now searching
+
+- AI systems running on device and offline
+ - Embedded hardware and wearable interfaces 
+- Web tooling for privacy and security
+- Tools for developers and automation
+- Backend architecture and distributed systems
+- Algorithmic problem solving in C++
+
+## How I work on projects
+
+I like to get past the first demo and deal with the harder parts: constraints, failure cases, debugging, integration, performance and whether or not a system is actually useful to someone.
+
+Most of the repositories here are experiments, hackathon projects or work in progress. They are the things I was trying to learn and build at that time.
